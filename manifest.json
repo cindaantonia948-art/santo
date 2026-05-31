@@ -1,0 +1,24 @@
+{
+  "name": "Despha",
+  "short_name": "Despha",
+  "description": "Votre boutique en ligne au Gabon",
+  "start_url": "/santo/index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#00e676",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
